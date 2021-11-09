@@ -35,7 +35,7 @@ $(document).ready(function() {
                     s = !1,
                     c = a + 2018,
                     g = t[a].name + " " + c,
-                    p = "Đếm Ngược Đến Tết Tân Sửu 2021",
+                    p = "Đếm Ngược Đến Tết",
                     l = "Chỉ Còn...",
                     h = "Chúc",
                     u = "Mừng",
