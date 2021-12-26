@@ -1,4 +1,3 @@
-
 function fireworks() {
     new fo(50), setTimeout("new fo(50)", 750), 0 < stopafter && setTimeout("stopfire()", 6e4 * stopafter)
 }
