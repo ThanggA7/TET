@@ -53,7 +53,6 @@
     </script>
 
 <div class='music-box'>
-<button class='music-box-toggle-btn'>
 <a title='Play music'><i class='fa fa-music'></i></a>
 </button>
 <div class='music-holder'>
@@ -62,7 +61,7 @@
 </div>
 <script type='text/javascript'>
         if ($(".music-box").length) {
-            var musicBtn = $(".music-box-toggle-btn"),
+            var musicBtn = $(".music-box-toggle-btn")
                 musicBox = $(".music-holder");
             musicBtn.on("click", function () {
                 musicBox.toggleClass("toggle-music-box");
