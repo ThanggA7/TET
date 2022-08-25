@@ -7,5 +7,5 @@ Clone Project tại :https://github.com/ThanggA7/TET/archive/refs/heads/main.zip
 Mình quên mất khi tải về mng xóa file CNAME đi nhé
 <br/>
 ///
-UPDATE TÊN MIỀN MỚI: gantetroi.tk
+UPDATE TÊN MIỀN MỚI: https://saptetroi.tk
 ///
