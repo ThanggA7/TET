@@ -1,24 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Discord Chat</title>
-    <link rel="stylesheet" href="style.css">
+    <title>ChatGPT Integration</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <div id="chat">
-        <div id="sidebar">
-            <!-- Nội dung thanh bên -->
-        </div>
-        <div id="main">
-            <div id="messages">
-                <!-- Khung hiển thị tin nhắn -->
-            </div>
-            <div id="input">
-                <input type="text" id="message-input" placeholder="Nhập tin nhắn...">
-                <button id="send-button">Gửi</button>
-            </div>
+    <div id="chat-container">
+        <div id="message-container"></div>
+        <div id="input-container">
+            <input type="text" id="message-input" placeholder="Type your message...">
+            <button id="send-button">Send</button>
         </div>
     </div>
 
